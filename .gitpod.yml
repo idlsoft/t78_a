@@ -1,2 +1,3 @@
 tasks:
-  - init: env > /home/gitpod/env_init
+  - name: initenv
+    init: env > /home/gitpod/env_init
